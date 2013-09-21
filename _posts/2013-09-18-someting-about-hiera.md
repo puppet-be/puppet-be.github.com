@@ -3,6 +3,7 @@ layout: post
 title: "Something about hiera"
 description: "Something about hiera"
 category: events
+author: johan
 tags: [puppet-be]
 ---
 Two proposed subjects for this event:

@@ -14,6 +14,31 @@ author :
   email : email
   github : puppet-be
 
+authors :
+  vstone:
+    display_name: Jan Vansteenkiste
+    gravatar: 41835625a324201c796a0a0cffe4796b
+    email: jan@vstone.eu
+    web: http://vstone.eu
+    twitter: Jan_vStone
+    github: vStone
+
+  janc:
+    display_name: Jan Collijs
+    gravatar:
+    email: jan.collijs@inuits.eu
+    web: http://www.visibilityspots.com
+    twitter: visibilityspots
+    github: visibilityspots
+
+  johan:
+    display_name: Johan De Wit
+    gravatar:
+    email:
+    web:
+    twitter:
+    github:
+
 excerpt_separator : "<!--more-->"
 
 # The production_url is only used when full-domain names are needed

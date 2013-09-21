@@ -16,6 +16,12 @@ title: Home
         <span class="category"><i class="icon-tag">&nbsp;</i> {{ post.categories | category_links }}</span>
       </header>
       <div class="entry">{{ post.excerpt }}</div>
+      <footer>
+        {% if post.author %}
+          {% assign author = site.authors[post.author] %}
+          - by <span class="author">{{ author.display_name }}</span>
+        {% endif %}
+      </footer>
     </article>
   {% endfor %}
 </div>
