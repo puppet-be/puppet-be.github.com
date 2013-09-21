@@ -5,6 +5,8 @@ title: Home
 
 {% include JB/setup %}
 
+<h1>Posts</h1>
+
 <div class="posts">
   {% for post in site.posts limit: 5  %}
     <article>
