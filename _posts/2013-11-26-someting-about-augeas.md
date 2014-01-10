@@ -12,5 +12,5 @@ We did talked about more generic puppet stuff, what stuff happened recently in t
 
 Presentations about augeas :
 
-* Slides from Raphael : http://files.meetup.com/7630312/configurationwithaugeas-120725172522-phpapp02.pdf
-* My Slides : http://files.meetup.com/7630312/Something%20about%20augeas.odp
+* [Slides about augeas by  Raphael] (http://files.meetup.com/7630312/configurationwithaugeas-120725172522-phpapp02.pdf)
+* [My Slides about augeas and file manipulation in puppet] (http://files.meetup.com/7630312/Something%20about%20augeas.odp)
