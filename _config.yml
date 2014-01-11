@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Belgian Puppet Users Group
-author : Belgian Puppet Users Group Core Team
+author :
   name : Belgian Puppet Users Group
   email : email
   github : puppet-be
