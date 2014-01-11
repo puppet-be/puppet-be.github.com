@@ -7,7 +7,7 @@ author: johan
 tags: [fosdem, cfgmgmt.eu]
 ---
 This time we held our meeting in a boat, 'De Planck' in Ghent.  This was not a regular meetup, but just a meeting to discuss the practical stuff about coming actions the Belgian Puppet Users Group will be taken part in or organize
-
+<!--more-->
 **Fosdem - Some practical stuff**
 * Puppetlabs has given us three big boxes with t-shirts and stickers for the stand
 * The Berlin Puppet User Group brings a demo setup to show something
