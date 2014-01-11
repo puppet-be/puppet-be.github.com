@@ -2,9 +2,9 @@
 layout: post
 title: "Something about hiera"
 description: "Something about hiera"
-category: events
+category: meetups
 author: johan
-tags: [puppet-be]
+tags: [hiera]
 ---
 Two proposed subjects for this event:
 

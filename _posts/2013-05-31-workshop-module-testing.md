@@ -2,9 +2,9 @@
 layout: post
 title: "Workshop module testing"
 description: "Puppet-module testing workshop"
-category: events
+category: meetups
 author: vstone
-tags: [puppet-be]
+tags: [rspec,vagrant]
 ---
 Jan did gave a presentaion @ puppetcamp Ghent : http://vstone.eu/talks/puppet-module-testing
 

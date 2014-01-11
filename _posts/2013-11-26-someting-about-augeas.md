@@ -2,9 +2,9 @@
 layout: post
 title: "Something about augeas"
 description: "Something about augeas"
-category: events
+category: meetups
 author: johan
-tags: [puppet-be]
+tags: [augeas]
 ---
 Two new faces showed up at this meetup.  I did prepare some slides about puppet and augeas, but there was nothing much to say about it, so the discussion we had after the 'slide' part was not at all going about augeas.
 
