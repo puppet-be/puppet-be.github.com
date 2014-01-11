@@ -8,9 +8,9 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Belgian Puppet usergroup
-author :
-  name : Belgian puppet usergroup
+title : Belgian Puppet Users Group
+author : Belgian Puppet Users Group Core Team
+  name : Belgian puppet Users Group
   email : email
   github : puppet-be
 
