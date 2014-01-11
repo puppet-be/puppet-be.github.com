@@ -53,18 +53,4 @@ We will be getting more active on linkedin. This will be in the following groups
 
 This is a github based blog setup, and is open to the public to post blogs using a git pull request. See [contributing] (http://puppet-be.github.io/contributing.html)
 
-
 **Activities we will be visiting**
-
-* 28-01-2014 - Puppetcamp Amsterdam
-* 1 2-02-2014 - FOSDEM (with puppet user group stand)
-* 3 4-02-2014 - [cfgmgmtcamp.eu] (http://cfgmgmtcamp.eu/) - with talk about TDD with rspec on Tuesday
-* 5 6-04-2014 - [loadays] (http://loadays.org) - trying to get in touch for a puppet track
-
-**Next meeting/meetups**
-* Next meetup : Tuesday 25 February, in Ghent starting from 19:00 - Round table about puppet infrastructure.
-* Next mid meeting : between two meetups, which occur every two months, we will start doing mid meetings.  This will be at **De Planck** in Ghent form 19:30 till?  Next meetup will be on 20 0f march 2014.
-
-Invites will be sent out using the meetups site.
-
-
