@@ -18,3 +18,12 @@ This time we held our meeting in a boat, 'De Planck' in Ghent.  This was not a r
 * We asked for photos taken during meetups, so we can show a slide
 
 At the puppet stand, we will keep a list when PUG members can help out with the stand.  So everyone can make a schedule of his visit @fosdem
+
+More info on fosdem will be released as soon as it arrives.  For those that are willing to help out with the stand, please RV SP [at our meetup site](http://www.meetup.com/Belgian-Puppet-User-Group/events/141259432/)
+
+**T-shirts**
+* Jan Van Stinkiest designed a Belgian Puppet Users Group Loge, and made some T-Shirts
+* We will be printing some more, and are looking for sponsoring.
+* No logos of sponsors will be printed on the t-shirts, but will be placed in the sponsor section of our meetup site.
+* T-shirts will become available for everyone, after we sorted out some practical stuff.
+
