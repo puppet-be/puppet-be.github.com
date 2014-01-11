@@ -49,9 +49,9 @@ We will be getting more active on linkedin. This will be in the following groups
 **Activities we will be visiting**
 
 * 28-01-2014 - Puppetcamp Amsterdam
-* 1&amp2-02-2014 - FOSDEM (with puppet user group stand)
-* 3&amp4-02-2014 - [cfgmgmtcamp.eu]i (http://cfgmgmtcamp.eu/) - with talk about TDD with rspec on Tuesday
-* 5&amp6-04-2014 - [loadays] (http://loadays.org) - trying to get in touch for a puppet track
+* 1&2-02-2014 - FOSDEM (with puppet user group stand)
+* 3&4-02-2014 - [cfgmgmtcamp.eu] (http://cfgmgmtcamp.eu/) - with talk about TDD with rspec on Tuesday
+* 5&6-04-2014 - [loadays] (http://loadays.org) - trying to get in touch for a puppet track
 
 **Next meeting/meetups**
 
