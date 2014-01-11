@@ -47,3 +47,11 @@ We will be getting more active on linkedin. This will be in the following groups
 **Belgian Puppet Users Group website**
 
 **Activities we will be visiting**
+
+**Next meeting/meetups**
+
+* Next meetup : Tuesday 25 February, in Ghent starting from 19:00 - Round table about puppet infrastructure.
+* Next mid meeting : between two meetups, which occur every two months, we will start doing mid meetings.  This will be at 'De Planck' in Ghent form 19:30 till ...,  Next meetup will be on 20 0f march 2014.
+
+Invites will be sent out using the meetups site.
+
