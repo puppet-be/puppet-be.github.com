@@ -40,6 +40,5 @@ An European Puppet Users Group is started, where some people of every PUG is inv
 
 We will be getting more active on linkedin. This will be in the following groups
 
-* [Belgian Puppet Users Group](http://www.linkedin.com/groups?home=&gid=4903932&trk=anet_ug_hm)
 
 
