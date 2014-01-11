@@ -38,7 +38,7 @@ An European Puppet Users Group is started, where some people of every PUG is inv
 
 **LinkedIn**
 
-We will be getting more active on linkedin. This will be in the following groups
+We will be more active on linkedin. This will be in the following groups
 
 * Belgian Puppet Users Group
 * Puppet Users Benelux
@@ -68,3 +68,6 @@ This is a github based blog setup, and is open to the public to post blogs using
 
 Invites will be sent out using the meetups site.
 
+**Followup Testing with puppet - first real meetup**
+
+As follow up of the first meetup about vagrant.rspec, prepared by Jan Van Steenkiste,  we would like to setup a github repo, where we will collect rspec templates and there corresponding code. Since some of the BPUG members are delving into rspec,  we see that for a specific type of functionality, so many different rspec is written.  this makes it very hard to get started with rspec.
