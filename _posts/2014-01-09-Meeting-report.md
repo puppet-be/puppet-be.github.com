@@ -41,16 +41,5 @@ An European Puppet Users Group is started, where some people of every PUG is inv
 We will be getting more active on linkedin. This will be in the following groups
 
 * [Belgian Puppet Users Group](http://www.linkedin.com/groups?home=&gid=4903932&trk=anet_ug_hm)
-* [Puppet Users Benelux](http://www.linkedin.com/groups?home=&gid=4300489&trk=anet_ug_hm)
-* [Puppet Users](http://www.linkedin.com/groups?home=&gid=696467&trk=anet_ug_hm)
-
-**Belgian Puppet Users Group website**
-* See the [contact](http://puppet-be.github.io//contact.html) for the websites we are using
-* We registered the puppet.usersgroup.be domain, which redirects at the moment to [this site](http://puppet-be.github.io)
-*TODO
-    * Adding a calendar sections
-
-This is a github based blog setup, and is open to the public to post blogs using a git pull request. See [contributing](http://puppet-be.github.io//contributing.html)
-
 
 
