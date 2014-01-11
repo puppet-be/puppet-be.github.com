@@ -10,7 +10,7 @@ pygments: true
 #
 title : Belgian Puppet Users Group
 author : Belgian Puppet Users Group Core Team
-  name : Belgian puppet Users Group
+  name : Belgian Puppet Users Group
   email : email
   github : puppet-be
 
@@ -34,10 +34,10 @@ authors :
   johan:
     display_name: Johan De Wit
     gravatar:
-      email: johan@open-future.be
+    email: johan@open-future.be
     web: http://www.open-future.be
     twitter:
-      github: johan-open-future
+    github: johan-open-future
 
 excerpt_separator : "<!--more-->"
 
