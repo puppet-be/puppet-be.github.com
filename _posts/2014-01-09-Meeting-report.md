@@ -6,7 +6,7 @@ category: meeting
 author: johan
 tags: [fosdem, cfgmgmt.eu]
 ---
-This time we held our meeting in a boat, 'De Planck' in Ghent.  This was not a regular meetup, but just a meeting to discuss the practical stuff about coming actions the Belgian Puppet Users Group will be taken part in.
+This time we held our meeting in a boat, 'De Planck' in Ghent.  This was not a regular meetup, but just a meeting to discuss the practical stuff about coming actions the Belgian Puppet Users Group will be taken part in or organize
 
 **Fosdem - Some practical stuff**
 * Puppetlabs has given us three big boxes with t-shirts and stickers for the stand
@@ -45,20 +45,22 @@ We will be getting more active on linkedin. This will be in the following groups
 * [Puppet Users](http://www.linkedin.com/groups?home=&gid=696467&trk=anet_ug_hm)
 
 **BElgian Puppet Users Group websitea**
-*See the [contact](http://puppet-be.github.io//contact.html) for the websites we are using
-*We registered the puppet.usersgroup.be domain, which redirects at the moment to [this site](http://puppet-be.github.io)
-** This is a github based blog setup, and is open to the public to post blogs using a git pull request. See [contributing](http://puppet-be.github.io//contributing.html)
+* See the [contact](http://puppet-be.github.io//contact.html) for the websites we are using
+* We registered the puppet.usersgroup.be domain, which redirects at the moment to [this site](http://puppet-be.github.io)
+
+This is a github based blog setup, and is open to the public to post blogs using a git pull request. See [contributing](http://puppet-be.github.io//contributing.html)
+
 **TODO**
-*Adding a calendar sections
+* Adding a calendar sections
 
 **Activities we will be visiting**
-*28-01-2014 - Puppetcamp Amsterdam
-*1&2-02-2014 - FOSDEM (with puppet user group stand)
-*3&4-02-2014 - [cfgmgmtcamp.eu](http://cfgmgmtcamp.eu/) - with talk about TDD with rspec on Tuesday
-*5-6-04-2014 - [loadays](http://loadays.org) - trying to get in touch for a puppet track
+* 28-01-2014 - Puppetcamp Amsterdam
+* 1&2-02-2014 - FOSDEM (with puppet user group stand)
+* 3&4-02-2014 - [cfgmgmtcamp.eu](http://cfgmgmtcamp.eu/) - with talk about TDD with rspec on Tuesday
+* 5-6-04-2014 - [loadays](http://loadays.org) - trying to get in touch for a puppet track
 
 **Next meeting/meetups**
-*Next meetup : Tuesday 25 February, in Ghent starting from 19:00 - Round table about puppet infrastructure.
-*Next mid meeting : between two meetups, which occur every two months, we will start doing mid meetings.  This will be at 'De Planck' in Ghent form 19:30 till ...,  Next meetup will be on 20 0f march 2014.
+* Next meetup : Tuesday 25 February, in Ghent starting from 19:00 - Round table about puppet infrastructure.
+* Next mid meeting : between two meetups, which occur every two months, we will start doing mid meetings.  This will be at 'De Planck' in Ghent form 19:30 till ...,  Next meetup will be on 20 0f march 2014.
 
 Invites will be sent out using the meetups site.
