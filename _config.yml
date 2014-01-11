@@ -34,10 +34,10 @@ authors :
   johan:
     display_name: Johan De Wit
     gravatar:
-    email:
-    web:
+      email: johan@open-future.be
+    web: http://www.open-future.be
     twitter:
-    github:
+      github: johan-open-future
 
 excerpt_separator : "<!--more-->"
 
