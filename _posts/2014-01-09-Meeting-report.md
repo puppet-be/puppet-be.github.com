@@ -46,11 +46,4 @@ We will be getting more active on linkedin. This will be in the following groups
 
 **Belgian Puppet Users Group website**
 
-* See the [contact](http://puppet-be.github.io//contact.html) for the websites we are using
-* We registered the puppet.usersgroup.be domain, which redirects at the moment to [this site](http://puppet-be.github.io)
-*TODO
-    * Adding a calendar sections
-
-This is a github based blog setup, and is open to the public to post blogs using a git pull request. See [contributing] (http://puppet-be.github.io/contributing.html)
-
 **Activities we will be visiting**
