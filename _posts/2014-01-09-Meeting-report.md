@@ -27,3 +27,13 @@ More info on fosdem will be released as soon as it arrives.  For those that are 
 * No logos of sponsors will be printed on the t-shirts, but will be placed in the sponsor section of our meetup site.
 * T-shirts will become available for everyone, after we sorted out some practical stuff.
 
+**European Puppet Users Group**
+
+An European Puppet Users Group is started, where some people of every PUG is invited to join.
+
+* Goal is :*
+    Exchanging Experience in organizing meetups
+    Exchanging ideas, topics, talks ....
+    Realizing the idea of a one day 'European Puppet Users Group Event'
+
+
