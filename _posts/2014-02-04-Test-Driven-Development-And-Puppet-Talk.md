@@ -4,13 +4,13 @@ title: "Talk CfgMgmtCamp.eu - Test Driven Development and Puppet"
 description: "Test Driven Development and Puppet"
 category: Coding
 author: Johan
-tags: [puppet]
+tags: [puppet,TDD]
 ---
 
 First of all, I apologies for the bad choice I made for the color scheme for the code examples making it hard to see the code. The slides are on [slideshare] (http://www.slideshare.net/johandw/test-driven-developmentandpuppetcfgmgmtcampeu20140402a) or you can download the pdf [here] - when I find the way to post files using Jekyll.
 
 The github repo of the openldap type, mentioned in the talk is located [here] (https://github.com/puppet-be/puppet_rspec_demo)
-<!---more--->
+<!--more-->
 The whole idea of giving this talk, is to show that TDD for Puppet code is something that can be done.  Looking at the reactions from the people in the room, writing rspec unit tests is seen in most cases a waste of time. And I kind of follow this feeling.  But on the other hand, this does not give you a reason to not write tests for your modules.  And yes, in some cases, writing rspec test for your modules is still a valid way of testing them.
 
 On the other hand, I tried to show that when dealing with pure ruby code, which we all will do sooner or later, when we need to extend puppet to make it fit our own environment much better.  And for us sys-admins, the first time we do, will probably be when we write our first Custom Puppet Type and Provider.
