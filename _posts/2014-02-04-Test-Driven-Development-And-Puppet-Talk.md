@@ -17,11 +17,11 @@ On the other hand, I tried to show that when dealing with pure ruby code, which 
 
 And I hope I did show that for that kind of software, TDD fits much better.
 
-And the talk just touches the top of the whole TDD process, just showed the very basics of writing your rspec file, run your tests and make just that piece of code to pass your test, to become 'Green'.
+And the talk just touches the top of the whole TDD process, just showed the very basics of writing your rspec file, run your tests and make just that piece of code to pass your test, to become **Green**.
 
 Also, this talk is written from a Sys-Admins view, and one with very poor development skills, and too little Ruby knowledge.  But that is no excuse not writing  rspec files and the accompanying Puppet Type Code.
 
-I hope this talk will lead to some people commenting on, telling there TDD adventures, and a bunch of 'test patterns' which we could gather and put together in a tutorial, which will be then a good source for us sys-admins to learn this IMHO very interesting process of TDD, witch is also great Fun.
+I hope this talk will lead to some people commenting on, telling there TDD adventures, and a bunch of *test patterns* which we could gather and put together in a tutorial, which will be then a good source for us sys-admins to learn this IMHO very interesting process of TDD, witch is also great Fun.
 
 We cannot see it to much, testing and automating your tests is the way to go, also for all puppet code you write. And TDD provides just the first step, the unit test.
 
@@ -29,5 +29,5 @@ I will try to delve deeper into the TDD for the openldap type, and also in the p
 
 Doing so, I hope to fill the gap of documentation about TDD, puppet rspec and Types and Providers, but I really need your help.
 
-Next talk I do on some puppet event will be : "Test Driven Development and Puppet - Part2"
+Next talk I do on some puppet event will be : **Test Driven Development and Puppet - Part2**
 
