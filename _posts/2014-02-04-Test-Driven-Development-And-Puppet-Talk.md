@@ -3,7 +3,7 @@ layout: post
 title: "Talk CfgMgmtCamp.eu - Test Driven Development and Puppet"
 description: "Test Driven Development and Puppet"
 category: Coding
-author: Johan
+author: johan
 tags: [puppet,TDD]
 ---
 

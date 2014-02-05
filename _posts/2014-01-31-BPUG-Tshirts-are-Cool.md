@@ -3,7 +3,7 @@ layout: post
 title: "Our Shirts are Cool"
 description: "We introduced out shirts at FOSDEM, and people find them COOL"
 category: blog
-author: Johan
+author: johan
 tags: [shirts]
 ---
 
