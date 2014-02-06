@@ -7,7 +7,7 @@ author: johan
 tags: [puppet,TDD]
 ---
 
-First of all, I apologies for the bad choice I made for the color scheme for the code examples making it hard to see the code. The slides are on [slideshare] (http://www.slideshare.net/johandw/test-driven-developmentandpuppetcfgmgmtcampeu20140402) or you can download the pdf [here] - when I find the way to post files using Jekyll.
+First of all, I apologies for the bad choice I made for the color scheme for the code examples making it hard to see the code. The slides are on [slideshare] (http://www.slideshare.net/johandw/test-driven-developmentandpuppetcfgmgmtcampeu20140402) or you can download the pdf [here] (resources/Test_Driven_Development_and_Puppet-cfgmgmtcamp_eu-20140402.pdf).
 
 The github repo of the openldap type, mentioned in the talk is located [here] (https://github.com/puppet-be/puppet_rspec_demo)
 <!--more-->
