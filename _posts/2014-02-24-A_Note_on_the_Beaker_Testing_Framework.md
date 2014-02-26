@@ -96,12 +96,19 @@ other projects.
 
 
 [1] Luke's PuppetConf 2013 Keynote: http://www.youtube.com/watch?v=Zx6L88k5alM
+
 [2] Beaker Gem: https://rubygems.org/gems/beaker & Beaker project: https://github.com/puppetlabs/beaker
+
 [3] rspec-puppet: http://rspec-puppet.com/
+
 [4] rspec-system: https://github.com/puppetlabs/rspec-system
+
 [5] some modules with beaker tests: https://github.com/puppetlabs/puppetlabs-postgresql/tree/master/spec/acceptance & https://github.com/puppetlabs/puppetlabs-apache/tree/master/spec/acceptance
+
 [6] https://github.com/puppetlabs/beaker/wiki/How-to-Write-a-Beaker-Test-for-a-Module
+
 [7] https://github.com/puppetlabs/beaker/wiki/How-To-Beaker
+
 
 --
 Ryan Coleman | Modules & Forge | ryanycoleman on twitter & #puppet IRC
