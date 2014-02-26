@@ -11,7 +11,7 @@ Damn, time flies having interesting meetups like this one.  And with 14 attendee
 
 This was also our first 'Round Table', and it worked very well.  So this concept will be repeated in the future.  As long as we have a whiteboard available, we are ready to go.
 
-Here are the [slides] (resources/Round_table.pdf) for this meetup.
+Here are the [slides] (http://puppet-be.github.io/resources/Round_table.pdf) for this meetup.
 
 And we have seen a lot of new faces, and having all kind off puppet skills in the room makes the conversation only more interesting.
 <!--more-->
