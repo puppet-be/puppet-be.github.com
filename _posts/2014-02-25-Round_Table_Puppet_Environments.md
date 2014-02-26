@@ -17,7 +17,7 @@ And we have seen a lot of new faces, and having all kind off puppet skills in th
 <!--more-->
 We did spent a lot of time talking about Hiera, should I move to Hiera, or stick with my ENC.  And if we move to Hiera, how can I use it to get the best of all worlds when it comes to data and puppet.  And no, there is no one right solution. But one thing is for sure, Hiera has an added value when used with puppet.
 
-We also touched briefly the [role/profile] (http://www.craigdunn.org/2012/05/239/), a way to organize your manifests and modules in such way, you get  a view of from the business site of your puppet managed infrastructure. And I believe some people are now reading Craigs blog.
+We also touched briefly the [role/profile] (http://www.craigdunn.org/2012/05/239/), a way to organize your manifests and modules in such way, you get  a view from the business site of your puppet managed infrastructure. And I believe some people are now reading Craigs blog.
 
 And it seems we should have another meetup scheduled to delve  deeper into the security configuration of our puppet environments.  What if we use puppet to manage a hosted environment, with a lot of customers, and we need to protect both the nodes and the uppermost (and especially the access to another clients module) ? Once your node get a signed cert form the  master, access is granted, and it seems it is easy to access another node catalog, maybe containing the password of the MySQL database ....
 
