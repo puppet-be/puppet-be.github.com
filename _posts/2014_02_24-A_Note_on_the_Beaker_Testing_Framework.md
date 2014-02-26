@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "A Note on the Beaker Testing Framework"
-description: "Quoted from Pupept Usere Mailinglist, by Ryan Coleman"
+description: "Quoted from Puppet Us ere Mailing list, by Ryan Coleman"
 category: coding
 author: johan
 tags: [puppet,beaker,testing]
 ---
 
-I was looking forward to the 'testing with beaker' talk which was sheduled right before our talk at cfgmgmtcamp.eu beginning of February this year. But it was us (Jan and I) who had to fill the timeslot of that talk, because the speaker could not make it.  But that same day, I stumbled over this email in the Puppet User Group mailing list.  Since I'm very in into 'puppet and testing', and I only heard the word 'beaker', this mail got my immediate attention.
+I was looking forward to the 'testing with beaker' talk which was scheduled right before our talk at cfgmgmtcamp.eu beginning of February this year. But it was us (Jan and I) who had to fill the time slot of that talk, because the speaker could not make it.  But that same day, I stumbled over this email in the Puppet User Group mailing list.  Since I'm very in into 'puppet and testing', and I only heard the word 'beaker', this mail got my immediate attention.
 
 <!--more-->
 
